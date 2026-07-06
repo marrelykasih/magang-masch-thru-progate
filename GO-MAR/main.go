@@ -47,4 +47,5 @@ func main() {
 	}
 
 	tandaiSelesaiDanCetakJSON(&daftarTugas[0])
+
 }
